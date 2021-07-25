@@ -577,7 +577,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 8ddde3d2ef9fd8c4ba5ace4bf99780aa, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 6755544770f6fa94ea46c0a1f3bebff9, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 0.758
   m_Pitch: 1
@@ -899,7 +899,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 63ff9370eb710fa46addc2a9a2839fcc, type: 2}
+  - {fileID: 2100000, guid: 223432b1bd85fda4789fce2fc656cf98, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -958,7 +958,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!82 &1397488565
 AudioSource:
   m_ObjectHideFlags: 0
